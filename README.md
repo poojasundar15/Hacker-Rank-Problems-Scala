@@ -1,2 +1,2 @@
-# Hacker-Rank-Problem(Solutions)-Scala
-Simple problems are solved, in 'SCALA programming language' using different functions, recursion and tail recursion.
+# Hacker-Rank-Problem(Solutions) 
+Simple and function based problems are solved, in 'SCALA programming language' using different functions, recursion and tail recursion.
