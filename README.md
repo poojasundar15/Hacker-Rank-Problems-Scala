@@ -23,5 +23,5 @@ Return the integer sum of the elements in the array.
 
 ## OutPut 
 
-**`5000000015~**
+**`5000000015**
 
