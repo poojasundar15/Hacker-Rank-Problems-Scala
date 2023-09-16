@@ -1,4 +1,4 @@
-# Hacker-Rank-Problem(Solutions) 
+# Hacker-Rank-Problems(Solutions) 
 Simple and function based problems are solved, in 'SCALA programming language' using different functions, recursion and tail recursion.
 
 ## 1. A Very Big Sum 
