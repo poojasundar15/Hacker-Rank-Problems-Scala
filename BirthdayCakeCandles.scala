@@ -1,4 +1,5 @@
-object BirthdayCakeCandles {
+object BirthdayCakeCandles
+{
   def birthdayCakeCandles(n: Int, ar: Array[Int]): Int = {
     var temp:Array[Int] = ar.sorted
     var result = 0
@@ -17,4 +18,5 @@ object BirthdayCakeCandles {
     }
     val result = birthdayCakeCandles(n, ar);
     println(result)
-  }}
+  }
+}
